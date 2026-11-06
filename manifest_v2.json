@@ -2,12 +2,12 @@
   "item": {
     "id": "farshadow",
     "restype": "res_pack",
-    "name": "远影资源包",
+    "name": "远影",
     "description": "全新轻质感图标！全方面提升视觉效果！",
     "preview": [
-      "media/画板 1 副本 2.png",
+      "media/画板 1.png",
       "media/画板 1 副本.png",
-      "media/画板 1.png"
+      "media/画板 1 副本 2.png"
     ],
     "icon": "media/画板 8.png",
     "cover": "media/画板 1.png",
